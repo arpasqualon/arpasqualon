@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, pessoal. Meu nome é **Alison Rodrigo Pasqualon** 👋
 
-<!--
-**arpasqualon/arpasqualon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, buscando aprender de forma contínua e evoluir como desenvolvedor. Estou dando meus primeiros passos com GitHub e programação, explorando tudo com muita curiosidade e vontade de crescer na área.
 
-Here are some ideas to get you started:
+📚 Disciplinas do 1º semestre:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Desenvolvimento Front-End Para Web  
+- 🧠 Algoritmo e Pensamento Computacional  
+- 🗃️ Modelagem de Banco de Dados  
+- 🎨 Design Profissional  
+
+Tenho um interesse especial por **desenvolvimento mobile** e **inteligência artificial**, entusiasmado com as possibilidades que irei descobrir e ansioso para ver onde essa jornada vai me levar.
+
+
+📌 _Sempre aprendendo, sempre evoluindo._
