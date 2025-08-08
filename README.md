@@ -17,7 +17,7 @@ Em 2025, escolhi a tecnologia como novo caminho profissional.
 Decisão consciente, nascida da vontade de transformar realidades, resolver problemas e evoluir constantemente.
 
 Minha bagagem vem do mundo real: já fui empreendedor, vendedor e gestor.  
-Agora quero aplicar tudo isso criando soluções através do código — com propósito, inclusão e impacto positivo.
+Agora quero aplicar tudo isso criando soluções através do código, com propósito, inclusão e impacto positivo.
 
 
 ## 📚 O que estou estudando no momento
